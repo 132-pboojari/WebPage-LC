@@ -16,7 +16,7 @@ li {
   float: left;
 }
 
-li a {
+li.a {
   display: block;
   color: white;
   text-align: center;
@@ -24,5 +24,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li.ab  {
   background-color: #111;
+}
